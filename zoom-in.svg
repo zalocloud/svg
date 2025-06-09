@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <filter id="onhiowsgma">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g>
+            <g filter="url(#onhiowsgma)" transform="translate(-978 -489) translate(969 480)">
+                <g stroke="#282828" stroke-width="2">
+                    <g>
+                        <path d="M1 0L7 6" transform="translate(9 9) rotate(180 10.5 5) rotate(90 4 3)"/>
+                        <path d="M3 4L-1 4" transform="translate(9 9) rotate(180 10.5 5) rotate(90 1 4)"/>
+                        <path d="M3 8L3 4" transform="translate(9 9) rotate(180 10.5 5) rotate(90 3 6)"/>
+                    </g>
+                    <g>
+                        <path d="M0 1L6 7" transform="translate(9 9) rotate(180 5 10.5) rotate(90 3 4)"/>
+                        <path d="M8 3L4 3" transform="translate(9 9) rotate(180 5 10.5) rotate(90 6 3)"/>
+                        <path d="M4 3L4 -1" transform="translate(9 9) rotate(180 5 10.5) rotate(90 4 1)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
